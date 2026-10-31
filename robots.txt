@@ -1,2 +1,2 @@
-User-agent: *
+User-agent: Claude-User
 Disallow: /hidden.html
